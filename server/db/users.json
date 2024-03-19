@@ -1,0 +1,39 @@
+[
+  {
+    "user": "github|94178885",
+    "favoriteImages": [
+      {
+        "imageUrl": "https://cdn.britannica.com/92/1292-050-92C981ED/Appaloosa-mare-bay-colouring.jpg",
+        "imageId": "2e35527d-3daa-4195-8660-04c6c6a6a229"
+      },
+      {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg",
+        "imageId": "eea38dcd-5d38-4882-b14d-d1eef71cc712"
+      },
+      {
+        "imageUrl": "https://cdn.britannica.com/08/1308-050-286672BB/gelding-Paso-Fino-palomino-coat.jpg",
+        "imageId": "8e8c029f-07da-43ed-b387-3ca89678840b"
+      },
+      {
+        "imageUrl": "https://files.worldwildlife.org/wwfcmsprod/images/HERO_harbor_seal_on_ice/hero_small/41yzw17euy_Harbor_Seal_on_Ice_close_0357_6_11_07.jpg",
+        "imageId": "c0b250a2-b26d-4931-a389-f1015d097454"
+      },
+      {
+        "imageUrl": "https://i.natgeofe.com/n/be7290e6-79b9-43d4-995e-3bf5323fb730/weddell-seal_thumb_4x3.jpg",
+        "imageId": "4f0d8a23-92bb-45a0-b96b-7c263ffa70d0"
+      },
+      {
+        "imageUrl": "https://images.openfoodfacts.org/images/products/477/014/921/5493/front_en.3.400.jpg",
+        "imageId": "f9a28674-1645-481a-bf79-712f767b7e0e"
+      },
+      {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Robert_F._Kennedy%2C_Jr._by_Gage_Skidmore.jpg",
+        "imageId": "accd7f0d-56f5-4fc5-b0e6-39ccc9736f51"
+      },
+      {
+        "imageUrl": "https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg",
+        "imageId": "d361c14b-6fc7-4654-969b-3c17968c0be2"
+      }
+    ]
+  }
+]
